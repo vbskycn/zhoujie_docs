@@ -1,9 +1,3 @@
----
-title: 直播电视详细介绍
-type: book # Do not modify.
-toc: true
----
-
 ## 直播电视介绍
 
 ------
