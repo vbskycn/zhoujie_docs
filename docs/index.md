@@ -100,5 +100,3 @@ template: home.html
 
 
 ## 
-
-
