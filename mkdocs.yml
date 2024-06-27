@@ -1,14 +1,14 @@
 site_dir: "site"
-site_url: https://weiyan.cc/
-site_name: 维燕的知识花园
-site_description: '记录 Bio+IT 相关知识，沉淀生活，记录点滴。'
+site_url: https://docs.zhoujie218.top
+site_name: 周杰个人博客 - 记录生活点滴
+site_description: 'zhoujie,zhoujie218,zhoujie218.top,周杰,个人博客,记录生活,点滴'
 
 # Docs 
 docs_dir: "docs"
 
 # Repository
 repo_name: Knowledge-Garden
-repo_url: https://github.com/shenweiyan/Knowledge-Garden/
+repo_url: https://github.com/vbskycn/zhoujie_docs
 edit_uri: edit/main/docs/
 site_author: Steven Shum
 
@@ -75,13 +75,13 @@ hooks:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/shenweiyan
+      link: https://github.com/vbskycn
       name: GitHub
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/weiyanshum
+      link: https://twitter.com/vbskycn
       name: Twitter      
     - icon: fontawesome/brands/mastodon
-      link: https://genomic.social/@weiyanshum
+      link: https://genomic.social/@vbskycn
       name: Mastodon
   analytics:
     provider: custom
